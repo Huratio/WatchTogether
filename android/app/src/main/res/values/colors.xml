@@ -1,0 +1,12 @@
+<resources>
+    <color name="bg">#090E19</color>
+    <color name="surface">#121928</color>
+    <color name="surface2">#1B2539</color>
+    <color name="primary">#14B8A6</color>
+    <color name="primary2">#5EEAD4</color>
+    <color name="text">#F4F8FC</color>
+    <color name="muted">#97A6BC</color>
+    <color name="success">#4BCD89</color>
+    <color name="danger">#EF5350</color>
+    <color name="line">#2F3D55</color>
+</resources>
